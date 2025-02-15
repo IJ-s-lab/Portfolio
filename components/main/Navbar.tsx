@@ -18,7 +18,7 @@ const Navbar = () => {
 
                     />
                     <span className='font-bold ml-[8px] hidden md:block text-gray-300'>
-                        constGenius
+                       Tech_Ishani_Mitra
                     </span>
                 </a>
 
